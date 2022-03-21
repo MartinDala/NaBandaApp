@@ -1,16 +1,27 @@
-# nabanda
+# NaBanda App
 
-A new Flutter project.
+Turismo
 
-## Getting Started
+## About App
 
-This project is a starting point for a Flutter application.
+Este é uma app de turismo nacional angola
+## Stacks
 
-A few resources to get you started if this is your first Flutter project:
+Flutter/Dart <br>
+Http <br>
+Arquitectura de Projectos: MVC <br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Extrutura das Pastas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✔app <br>
+✔util <br>
+✔views <br>
+
+
+## Feactures
+
+🎯Mostrar o Webview do website Nabanda ✔ <br>
+
+## Resources
+
+- [Package Webview Flutter](https://pub.dev/packages/webview_flutter) <br>
