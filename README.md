@@ -1,7 +1,7 @@
 # NaBanda App
 
 Turismo
-| <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431223.png" width="250"> | <img src="https://github.com/MartinDala/InametStatics/blob/main/Screenshot_1602431265.png" width="250">|
+| <img src="https://raw.githubusercontent.com/MartinDala/NaBandaApp/main/assets/Screenshot_1647851099.png" width="250"> | <img src="https://raw.githubusercontent.com/MartinDala/NaBandaApp/main/assets/Screenshot_1647851103.png" width="250">|
 ## About App
 
 Este é uma app de turismo nacional angola
