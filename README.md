@@ -1,4 +1,4 @@
-# NaBanda App
+# NaBanda App - Webview Flutter
 
 <img src="https://raw.githubusercontent.com/MartinDala/NaBandaApp/main/assets/Screenshot_1647851099.png" width="250"> | <img src="https://raw.githubusercontent.com/MartinDala/NaBandaApp/main/assets/Screenshot_1647851103.png" width="250">|
 ## About App
